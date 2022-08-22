@@ -1,0 +1,1814 @@
+[
+  {
+    "name": "Astralis",
+    "players": [
+      {
+        "name": "Magisk",
+        "steamId": "76561197983956651"
+      },
+      {
+        "name": "device",
+        "steamId": "76561197987713664"
+      },
+      {
+        "name": "dupreeh",
+        "steamId": "76561198004854956"
+      },
+      {
+        "name": "JUGi",
+        "steamId": "76561199116274475"
+      },
+      {
+        "name": "Snappi",
+        "steamId": "76561197989423065"
+      },
+      {
+        "name": "Xyp9x",
+        "steamId": "76561197990682262"
+      },
+      {
+        "name": "gla1ve",
+        "steamId": "76561198010511021"
+      },
+      {
+        "name": "es3tag",
+        "steamId": "76561197962125374"
+      }
+    ]
+  },
+  {
+    "name": "G2",
+    "players": [
+      {
+        "name": "kennyS",
+        "steamId": "76561198024905796"
+      },
+      {
+        "name": "JACKZ",
+        "steamId": "76561197972242917"
+      },
+      {
+        "name": "huNter",
+        "steamId": "76561198012872053"
+      },
+      {
+        "name": "nexa",
+        "steamId": "76561197999825422"
+      },
+      {
+        "name": "AmaNEk",
+        "steamId": "76561198068944951"
+      }
+    ]
+  },
+  {
+    "name": "NaVi",
+    "players": [
+      {
+        "name": "Boombl4",
+        "steamId": "76561198146207066"
+      },
+      {
+        "name": "electronic",
+        "steamId": "76561198044045107"
+      },
+      {
+        "name": "s1mple",
+        "steamId": "76561198034202275"
+      },
+      {
+        "name": "flamie",
+        "steamId": "76561198116523276"
+      },
+      {
+        "name": "Perfecto",
+        "steamId": "76561198121220486"
+      },
+      {
+        "name": "GuardiaN",
+        "steamId": "76561197972331023"
+      },
+      {
+        "name": "m0NESY",
+        "steamId": "76561198074762801"
+      }
+    ]
+  },
+  {
+    "name": "Fnatic",
+    "players": [
+      {
+        "name": "JW",
+        "steamId": "76561198031554200"
+      },
+      {
+        "name": "flusha",
+        "steamId": "76561197991348083"
+      },
+      {
+        "name": "KRiMZ",
+        "steamId": "76561198031651584"
+      },
+      {
+        "name": "Golden",
+        "steamId": "76561199191475148"
+      },
+      {
+        "name": "Brollan",
+        "steamId": "76561198138828475"
+      }
+    ]
+  },
+  {
+    "name": "Liquid",
+    "players": [
+      {
+        "name": "Stewie2k",
+        "steamId": "76561197999004010"
+      },
+      {
+        "name": "EliGE",
+        "steamId": "76561198066693739"
+      },
+      {
+        "name": "nitr0",
+        "steamId": "76561197995889730"
+      },
+      {
+        "name": "NAF",
+        "steamId": "76561198001151695"
+      },
+      {
+        "name": "Twistzz",
+        "steamId": "76561198016255205"
+      }
+    ]
+  },
+  {
+    "name": "Cloud9",
+    "players": [
+      {
+        "name": "motm",
+        "steamId": "76561198020474058"
+      },
+      {
+        "name": "floppy",
+        "steamId": "76561198306519263"
+      },
+      {
+        "name": "oSee",
+        "steamId": "76561198047472534"
+      },
+      {
+        "name": "JT",
+        "steamId": "76561198021715100"
+      },
+      {
+        "name": "TenZ",
+        "steamId": "76561197960968055"
+      }
+    ]
+  },
+  {
+    "name": "Vitality",
+    "players": [
+      {
+        "name": "apEX",
+        "steamId": "76561197989744167"
+      },
+      {
+        "name": "shox",
+        "steamId": "76561198006920295"
+      },
+      {
+        "name": "RpK",
+        "steamId": "76561198014251501"
+      },
+      {
+        "name": "misutaaa",
+        "steamId": "76561198081528911"
+      },
+      {
+        "name": "ZywOo",
+        "steamId": "76561198113666193"
+      }
+    ]
+  },
+  {
+    "name": "FURIA",
+    "players": [
+      {
+        "name": "kscerato",
+        "steamId": "76561198058500492"
+      },
+      {
+        "name": "arT",
+        "steamId": "76561198043769572"
+      },
+      {
+        "name": "yuurih",
+        "steamId": "76561198164970560"
+      },
+      {
+        "name": "VINI",
+        "steamId": "76561197996370184"
+      },
+      {
+        "name": "HEN1",
+        "steamId": "76561198018027263"
+      }
+    ]
+  },
+  {
+    "name": "NiP",
+    "players": [
+      {
+        "name": "twist",
+        "steamId": "76561197980244859"
+      },
+      {
+        "name": "nawwk",
+        "steamId": "76561198153651861"
+      },
+      {
+        "name": "Plopski",
+        "steamId": "76561198135878798"
+      },
+      {
+        "name": "REZ",
+        "steamId": "76561198034172415"
+      },
+      {
+        "name": "Hampus",
+        "steamId": "76561198086945950"
+      },
+      {
+        "name": "Lekr0",
+        "steamId": "76561197961358863"
+      }
+    ]
+  },
+  {
+    "name": "Virtus.pro",
+    "players": [
+      {
+        "name": "Jame",
+        "steamId": "76561198036125584"
+      },
+      {
+        "name": "qikert",
+        "steamId": "76561198127236290"
+      },
+      {
+        "name": "AdreN",
+        "steamId": "76561198006466707"
+      },
+      {
+        "name": "SANJI",
+        "steamId": "76561198317627284"
+      },
+      {
+        "name": "YEKINDAR",
+        "steamId": "76561198134401925"
+      },
+      {
+        "name": "Buster",
+        "steamId": "76561198173201923"
+      }
+    ]
+  },
+  {
+    "name": "Heroic",
+    "players": [
+      {
+        "name": "stavn",
+        "steamId": "76561198022365638"
+      },
+      {
+        "name": "teses",
+        "steamId": "76561197996678278"
+      },
+      {
+        "name": "niko",
+        "steamId": "76561197989736583"
+      },
+      {
+        "name": "cadiaN",
+        "steamId": "76561198004115516"
+      },
+      {
+        "name": "b0RUP",
+        "steamId": "76561198107142008"
+      }
+    ]
+  },
+  {
+    "name": "GODSENT",
+    "players": [
+      {
+        "name": "STYKO",
+        "steamId": "76561198016194159"
+      },
+      {
+        "name": "maden",
+        "steamId": "76561198165452027"
+      },
+      {
+        "name": "farlig",
+        "steamId": "76561198024248129"
+      },
+      {
+        "name": "kRYSTAL",
+        "steamId": "76561197977791735"
+      },
+      {
+        "name": "Maikelele",
+        "steamId": "76561197961191700"
+      }
+    ]
+  },
+  {
+    "name": "coL",
+    "players": [
+      {
+        "name": "k0nfig",
+        "steamId": "76561197979669175"
+      },
+      {
+        "name": "oBo",
+        "steamId": "76561198098421988"
+      },
+      {
+        "name": "blameF",
+        "steamId": "76561198028458803"
+      },
+      {
+        "name": "RUSH",
+        "steamId": "76561198023592320"
+      },
+      {
+        "name": "poizon",
+        "steamId": "76561198077802866"
+      }
+    ]
+  },
+  {
+    "name": "BIG",
+    "players": [
+      {
+        "name": "tizian",
+        "steamId": "76561197997556936"
+      },
+      {
+        "name": "k1to",
+        "steamId": "76561198182462587"
+      },
+      {
+        "name": "XANTARES",
+        "steamId": "76561198044118796"
+      },
+      {
+        "name": "tabseN",
+        "steamId": "76561197961491680"
+      },
+      {
+        "name": "syrsoN",
+        "steamId": "76561197980122997"
+      }
+    ]
+  },
+  {
+    "name": "ENCE",
+    "players": [
+      {
+        "name": "Aerial",
+        "steamId": "76561197962710908"
+      },
+      {
+        "name": "allu",
+        "steamId": "76561197961610974"
+      },
+      {
+        "name": "xseveN",
+        "steamId": "76561198013172503"
+      },
+      {
+        "name": "Jamppi",
+        "steamId": "76561198166952201"
+      },
+      {
+        "name": "suNny",
+        "steamId": "76561199127615659"
+      }
+    ]
+  },
+  {
+    "name": "North",
+    "players": [
+      {
+        "name": "gade",
+        "steamId": "76561197981621332"
+      },
+      {
+        "name": "MSL",
+        "steamId": "76561197984400619"
+      },
+      {
+        "name": "cajunb",
+        "steamId": "76561197978328043"
+      },
+      {
+        "name": "aizy",
+        "steamId": "76561198050950952"
+      },
+      {
+        "name": "Kjaerbye",
+        "steamId": "76561198019880552"
+      }
+    ]
+  },
+  {
+    "name": "forZe",
+    "players": [
+      {
+        "name": "facecrack",
+        "steamId": "76561198076007873"
+      },
+      {
+        "name": "Jerry",
+        "steamId": "76561198026088156"
+      },
+      {
+        "name": "almazer",
+        "steamId": "76561198044048033"
+      },
+      {
+        "name": "xsepower",
+        "steamId": "76561198072279954"
+      },
+      {
+        "name": "FL1T",
+        "steamId": "76561197995817501"
+      }
+    ]
+  },
+  {
+    "name": "RNG",
+    "players": [
+      {
+        "name": "dexter",
+        "steamId": "76561198061801241"
+      },
+      {
+        "name": "malta",
+        "steamId": "76561198142171301"
+      },
+      {
+        "name": "Sico",
+        "steamId": "76561197999532274"
+      },
+      {
+        "name": "INS",
+        "steamId": "76561197987212623"
+      }
+    ]
+  },
+  {
+    "name": "MIBR",
+    "players": [
+      {
+        "name": "FalleN",
+        "steamId": "76561197960690195"
+      },
+      {
+        "name": "fer",
+        "steamId": "76561197999186947"
+      },
+      {
+        "name": "TACO",
+        "steamId": "76561198013142296"
+      },
+      {
+        "name": "trk",
+        "steamId": "76561198034379704"
+      },
+      {
+        "name": "kNg",
+        "steamId": "76561197966998591"
+      },
+      {
+        "name": "meyern",
+        "steamId": "76561199032216325"
+      }
+    ]
+  },
+  {
+    "name": "Spirit",
+    "players": [
+      {
+        "name": "sdy",
+        "steamId": "76561198040577200"
+      },
+      {
+        "name": "iDISBALANCE",
+        "steamId": "76561198170649897"
+      },
+      {
+        "name": "mir",
+        "steamId": "76561198000827804"
+      },
+      {
+        "name": "chopper",
+        "steamId": "76561198045898864"
+      }
+    ]
+  },
+  {
+    "name": "Tyloo",
+    "players": [
+      {
+        "name": "Attacker",
+        "steamId": "76561198048266764"
+      },
+      {
+        "name": "Summer",
+        "steamId": "76561198013230247"
+      },
+      {
+        "name": "somebody",
+        "steamId": "76561198045397601"
+      },
+      {
+        "name": "Freeman",
+        "steamId": "76561198168621443"
+      }
+    ]
+  },
+  {
+    "name": "Gambit Y",
+    "players": [
+      {
+        "name": "Ax1Le",
+        "steamId": "76561198045433304"
+      },
+      {
+        "name": "sh1ro",
+        "steamId": "76561198081484775"
+      }
+    ]
+  },
+  {
+    "name": "Sprout",
+    "players": [
+      {
+        "name": "Spiidi",
+        "steamId": "76561197973730803"
+      },
+      {
+        "name": "denis",
+        "steamId": "76561197991451104"
+      }
+    ]
+  },
+  {
+    "name": "Chaos",
+    "players": [
+      {
+        "name": "vanity",
+        "steamId": "76561198165266868"
+      },
+      {
+        "name": "steel",
+        "steamId": "76561197963077268"
+      }
+    ]
+  },
+  {
+    "name": "Dignitas",
+    "players": [
+      {
+        "name": "friberg",
+        "steamId": "76561197984560929"
+      },
+      {
+        "name": "Xizt",
+        "steamId": "76561197986490720"
+      },
+      {
+        "name": "f0rest",
+        "steamId": "76561197960359452"
+      },
+      {
+        "name": "GeT_RiGhT",
+        "steamId": "76561197982036918"
+      },
+      {
+        "name": "hallzerk",
+        "steamId": "76561198060367310"
+      }
+    ]
+  },
+  {
+    "name": "pro100",
+    "players": [
+      {
+        "name": "WorldEdit",
+        "steamId": "76561197996997916"
+      },
+      {
+        "name": "wayLander",
+        "steamId": "76561197998606698"
+      }
+    ]
+  },
+  {
+    "name": "EnVyUs",
+    "players": [
+      {
+        "name": "moose",
+        "steamId": "76561198324395878"
+      },
+      {
+        "name": "MICHU",
+        "steamId": "76561198020624803"
+      },
+      {
+        "name": "Calyx",
+        "steamId": "76561198052546265"
+      },
+      {
+        "name": "Nifty",
+        "steamId": "76561198123624249"
+      }
+    ]
+  },
+  {
+    "name": "Nordavind",
+    "players": [
+      {
+        "name": "NaToSaphiX",
+        "steamId": "76561198001596252"
+      },
+      {
+        "name": "tenzki",
+        "steamId": "76561197997480650"
+      },
+      {
+        "name": "cromen",
+        "steamId": "76561197981663417"
+      },
+      {
+        "name": "RUBINO",
+        "steamId": "76561197995369711"
+      },
+      {
+        "name": "HS",
+        "steamId": "76561197963682761"
+      }
+    ]
+  },
+  {
+    "name": "Heretics",
+    "players": [
+      {
+        "name": "kioShiMa",
+        "steamId": "76561198000782895"
+      },
+      {
+        "name": "Lucky",
+        "steamId": "76561198031890115"
+      },
+      {
+        "name": "Maka",
+        "steamId": "76561198045739761"
+      },
+      {
+        "name": "Nivera",
+        "steamId": "76561198160795931"
+      },
+      {
+        "name": "xms",
+        "steamId": "76561197998775209"
+      }
+    ]
+  },
+  {
+    "name": "Nemiga",
+    "players": [
+      {
+        "name": "lollipop21k",
+        "steamId": "76561198014818598"
+      },
+      {
+        "name": "speed4k",
+        "steamId": "76561198040194649"
+      }
+    ]
+  },
+  {
+    "name": "Illuminar",
+    "players": [
+      {
+        "name": "Snax",
+        "steamId": "76561197982141573"
+      },
+      {
+        "name": "mouz",
+        "steamId": "76561197998730533"
+      },
+      {
+        "name": "innocent",
+        "steamId": "76561197986829261"
+      }
+    ]
+  },
+  {
+    "name": "LDLC",
+    "players": [
+      {
+        "name": "hAdji",
+        "steamId": "76561197980944787"
+      },
+      {
+        "name": "SIXER",
+        "steamId": "76561197963694984"
+      },
+      {
+        "name": "bodyy",
+        "steamId": "76561198013295375"
+      },
+      {
+        "name": "LOGAN",
+        "steamId": "76561198112463373"
+      }
+    ]
+  },
+  {
+    "name": "c0ntact",
+    "players": [
+      {
+        "name": "EspiranTo",
+        "steamId": "76561198045037774"
+      },
+      {
+        "name": "ottoNd",
+        "steamId": "76561198035334871"
+      },
+      {
+        "name": "LETN1",
+        "steamId": "76561198042092011"
+      },
+      {
+        "name": "SHiPZ",
+        "steamId": "76561198215214621"
+      }
+    ]
+  },
+  {
+    "name": "ORDER",
+    "players": [
+      {
+        "name": "USTILO",
+        "steamId": "76561197979168983"
+      },
+      {
+        "name": "Rickeh",
+        "steamId": "76561197963481649"
+      }
+    ]
+  },
+  {
+    "name": "Singularity",
+    "players": [
+      {
+        "name": "mertz",
+        "steamId": "76561198079764052"
+      }
+    ]
+  },
+  {
+    "name": "Giants",
+    "players": [
+      {
+        "name": "fox",
+        "steamId": "76561197962205264"
+      }
+    ]
+  },
+  {
+    "name": "paiN Gaming",
+    "players": [
+      {
+        "name": "PKL",
+        "steamId": "76561198025578864"
+      },
+      {
+        "name": "NEKIZ",
+        "steamId": "76561198036884160"
+      }
+    ]
+  },
+  {
+    "name": "Mouz",
+    "players": [
+      {
+        "name": "Frozen",
+        "steamId": "76561198068422762"
+      },
+      {
+        "name": "karrigan",
+        "steamId": "76561197989430253"
+      },
+      {
+        "name": "chrisJ",
+        "steamId": "76561197988539104"
+      },
+      {
+        "name": "ropz",
+        "steamId": "76561197991272318"
+      },
+      {
+        "name": "woxic",
+        "steamId": "76561198083485506"
+      }
+    ]
+  },
+  {
+    "name": "FaZe Clan",
+    "players": [
+      {
+        "name": "rain",
+        "steamId": "76561197997351207"
+      },
+      {
+        "name": "coldzera",
+        "steamId": "76561198039986599"
+      },
+      {
+        "name": "NiKo",
+        "steamId": "76561198041683378"
+      },
+      {
+        "name": "broky",
+        "steamId": "76561198201620490"
+      },
+      {
+        "name": "Bymas",
+        "steamId": "76561198093386355"
+      },
+      {
+        "name": "olofmeister",
+        "steamId": "76561197988627193"
+      }
+    ]
+  },
+  {
+    "name": "GL",
+    "players": [
+      {
+        "name": "dennis",
+        "steamId": "76561198068342553"
+      },
+      {
+        "name": "ScreaM",
+        "steamId": "76561197988768248"
+      },
+      {
+        "name": "freddieb",
+        "steamId": "76561198027468816"
+      },
+      {
+        "name": "draken",
+        "steamId": "76561198119388735"
+      }
+    ]
+  },
+  {
+    "name": "MR",
+    "players": [
+      {
+        "name": "loWel",
+        "steamId": "76561197994722572"
+      },
+      {
+        "name": "steel",
+        "steamId": "76561198014778202"
+      },
+      {
+        "name": "alex",
+        "steamId": "76561198000984547"
+      }
+    ]
+  },
+  {
+    "name": "FPX",
+    "players": [
+      {
+        "name": "ptr",
+        "steamId": "76561197974113556"
+      }
+    ]
+  },
+  {
+    "name": "EG",
+    "players": [
+      {
+        "name": "tarik",
+        "steamId": "76561197978481975"
+      },
+      {
+        "name": "stanislaw",
+        "steamId": "76561197981849043"
+      },
+      {
+        "name": "Brehze",
+        "steamId": "76561198054861139"
+      },
+      {
+        "name": "Ethan",
+        "steamId": "76561198129443530"
+      },
+      {
+        "name": "CeRq",
+        "steamId": "76561198156353883"
+      }
+    ]
+  },
+  {
+    "name": "CPH Flames",
+    "players": [
+      {
+        "name": "refrezh",
+        "steamId": "76561198064864198"
+      }
+    ]
+  },
+  {
+    "name": "Boom",
+    "players": [
+      {
+        "name": "felps",
+        "steamId": "76561197983031494"
+      },
+      {
+        "name": "boltz",
+        "steamId": "76561198018379400"
+      },
+      {
+        "name": "yeL",
+        "steamId": "76561198050335184"
+      },
+      {
+        "name": "chelo",
+        "steamId": "76561198067763828"
+      }
+    ]
+  },
+  {
+    "name": "AGO",
+    "players": [
+      {
+        "name": "Furlan",
+        "steamId": "76561198137761601"
+      },
+      {
+        "name": "Gruby",
+        "steamId": "76561198005018258"
+      }
+    ]
+  },
+  {
+    "name": "HL",
+    "players": [
+      {
+        "name": "Forester",
+        "steamId": "76561198027348753"
+      },
+      {
+        "name": "svyat",
+        "steamId": "76561197995898576"
+      },
+      {
+        "name": "kinqie",
+        "steamId": "76561198002372151"
+      },
+      {
+        "name": "Krad",
+        "steamId": "76561198031908632"
+      }
+    ]
+  },
+  {
+    "name": "Winstrike",
+    "players": [
+      {
+        "name": "krizzen",
+        "steamId": "76561198067937899"
+      },
+      {
+        "name": "bondik",
+        "steamId": "76561198007184371"
+      },
+      {
+        "name": "HObbit",
+        "steamId": "76561198028292758"
+      },
+      {
+        "name": "El1an",
+        "steamId": "76561198210763837"
+      },
+      {
+        "name": "Lack1",
+        "steamId": "76561198146202997"
+      }
+    ]
+  },
+  {
+    "name": "SP",
+    "players": [
+      {
+        "name": "Zellsis",
+        "steamId": "76561198147117974"
+      },
+      {
+        "name": "Freakazoid",
+        "steamId": "76561197977148799"
+      }
+    ]
+  },
+  {
+    "name": "Mythic",
+    "players": [
+      {
+        "name": "fl0m",
+        "steamId": "76561197992220633"
+      }
+    ]
+  },
+  {
+    "name": "100T",
+    "players": [
+      {
+        "name": "Liazz",
+        "steamId": "76561198072321716"
+      },
+      {
+        "name": "Gratisfaction",
+        "steamId": "76561197965809411"
+      },
+      {
+        "name": "AZR",
+        "steamId": "76561197985097994"
+      },
+      {
+        "name": "jks",
+        "steamId": "76561197977105184"
+      },
+      {
+        "name": "jkaem",
+        "steamId": "76561198002708642"
+      }
+    ]
+  },
+  {
+    "name": "RC",
+    "players": [
+      {
+        "name": "destiny",
+        "steamId": "76561198049794434"
+      }
+    ]
+  },
+  {
+    "name": "9z Team",
+    "players": [
+      {
+        "name": "xand",
+        "steamId": "76561198070092584"
+      },
+      {
+        "name": "bit",
+        "steamId": "76561197969490124"
+      }
+    ]
+  },
+  {
+    "name": "IE",
+    "players": [
+      {
+        "name": "SHOOWTiME",
+        "steamId": "76561198058204642"
+      }
+    ]
+  },
+  {
+    "name": "SMASH",
+    "players": [
+      {
+        "name": "discodoplan",
+        "steamId": "76561198121528635"
+      },
+      {
+        "name": "bubble",
+        "steamId": "76561198000968105"
+      }
+    ]
+  },
+  {
+    "name": "Sangal",
+    "players": [
+      {
+        "name": "ngiN",
+        "steamId": "76561197978153090"
+      },
+      {
+        "name": "paz",
+        "steamId": "76561198028790343"
+      },
+      {
+        "name": "MAJ3R",
+        "steamId": "76561197967432889"
+      },
+      {
+        "name": "FURIOUSSS",
+        "steamId": "76561198146838248"
+      }
+    ]
+  },
+  {
+    "name": "ML",
+    "players": [
+      {
+        "name": "Bubzkji",
+        "steamId": "76561198131369187"
+      },
+      {
+        "name": "roeJ",
+        "steamId": "76561197991234691"
+      },
+      {
+        "name": "acoR",
+        "steamId": "76561198002942763"
+      },
+      {
+        "name": "sjuush",
+        "steamId": "76561198160709585"
+      },
+      {
+        "name": "AcilioN",
+        "steamId": "76561198017015164"
+      }
+    ]
+  },
+  {
+    "name": "OG",
+    "players": [
+      {
+        "name": "NBK",
+        "steamId": "76561197960710573"
+      },
+      {
+        "name": "Aleksib",
+        "steamId": "76561198013243326"
+      },
+      {
+        "name": "valde",
+        "steamId": "76561198114929868"
+      },
+      {
+        "name": "mantuu",
+        "steamId": "76561198016432560"
+      },
+      {
+        "name": "ISSAA",
+        "steamId": "76561198037812456"
+      }
+    ]
+  },
+  {
+    "name": "Gen.G",
+    "players": [
+      {
+        "name": "autimatic",
+        "steamId": "76561198054870849"
+      },
+      {
+        "name": "s0m",
+        "steamId": "76561198247554160"
+      },
+      {
+        "name": "BnTeT",
+        "steamId": "76561198072083240"
+      },
+      {
+        "name": "daps",
+        "steamId": "76561197980158081"
+      },
+      {
+        "name": "koosta",
+        "steamId": "76561197960427318"
+      }
+    ]
+  },
+  {
+    "name": "Syman",
+    "players": [
+      {
+        "name": "n0rb3r7",
+        "steamId": "76561198222442504"
+      },
+      {
+        "name": "mou",
+        "steamId": "76561198012944495"
+      },
+      {
+        "name": "nealan",
+        "steamId": "76561198054042778"
+      },
+      {
+        "name": "Keoz",
+        "steamId": "76561198098344244"
+      },
+      {
+        "name": "kreaz",
+        "steamId": "76561198077245619"
+      }
+    ]
+  },
+  {
+    "name": "Wisła Kraków",
+    "players": [
+      {
+        "name": "byali",
+        "steamId": "76561197979126082"
+      },
+      {
+        "name": "SZPERO",
+        "steamId": "76561197979820713"
+      }
+    ]
+  },
+  {
+    "name": "AVANT",
+    "players": [
+      {
+        "name": "sterling",
+        "steamId": "76561198060490349"
+      }
+    ]
+  },
+  {
+    "name": "BTRG",
+    "players": [
+      {
+        "name": "xccurate",
+        "steamId": "76561198137694535"
+      }
+    ]
+  },
+  {
+    "name": "Apeks",
+    "players": [
+      {
+        "name": "radifaction",
+        "steamId": "76561198027330379"
+      }
+    ]
+  },
+  {
+    "name": "SI",
+    "players": [
+      {
+        "name": "Relyks",
+        "steamId": "76561197970838518"
+      }
+    ]
+  },
+  {
+    "name": "W7M",
+    "players": [
+      {
+        "name": "ableJ",
+        "steamId": "76561198043206428"
+      }
+    ]
+  },
+  {
+    "name": "Budapest Five",
+    "players": [
+      {
+        "name": "Zero",
+        "steamId": "76561197994587863"
+      }
+    ]
+  },
+  {
+    "name": "CL",
+    "players": [
+      {
+        "name": "seized",
+        "steamId": "76561197963914156"
+      }
+    ]
+  },
+  {
+    "name": "es4x",
+    "players": [
+      {
+        "name": "jR",
+        "steamId": "76561198003756239"
+      }
+    ]
+  },
+  {
+    "name": "TIGER",
+    "players": [
+      {
+        "name": "erkaSt",
+        "steamId": "76561198091571276"
+      }
+    ]
+  },
+  {
+    "name": "PA",
+    "players": [
+      {
+        "name": "reltuC",
+        "steamId": "76561197960784488"
+      }
+    ]
+  },
+  {
+    "name": "The Dice",
+    "players": [
+      {
+        "name": "DEVIL",
+        "steamId": "76561198354233182"
+      }
+    ]
+  },
+  {
+    "name": "Japaleno",
+    "players": [
+      {
+        "name": "PlesseN",
+        "steamId": "76561198017982577"
+      }
+    ]
+  },
+  {
+    "name": "DC",
+    "players": [
+      {
+        "name": "devoduvek",
+        "steamId": "76561198076930721"
+      }
+    ]
+  },
+  {
+    "name": "Skin Ogres",
+    "players": [
+      {
+        "name": "blocker",
+        "steamId": "76561198064596050"
+      }
+    ]
+  },
+  {
+    "name": "MC",
+    "players": [
+      {
+        "name": "Dosia",
+        "steamId": "76561198106907258"
+      },
+      {
+        "name": "hutji",
+        "steamId": "76561198021853358"
+      }
+    ]
+  },
+  {
+    "name": "Extremum",
+    "players": [
+      {
+        "name": "balblna",
+        "steamId": "76561198010470528"
+      }
+    ]
+  },
+  {
+    "name": "HONORIS",
+    "players": [
+      {
+        "name": "NEO",
+        "steamId": "76561197960725934"
+      },
+      {
+        "name": "TaZ",
+        "steamId": "76561197960499780"
+      }
+    ]
+  },
+  {
+    "name": "OneThree",
+    "players": [
+      {
+        "name": "Mo",
+        "steamId": "76561198069301890"
+      },
+      {
+        "name": "DD",
+        "steamId": "76561198130248345"
+      }
+    ]
+  },
+  {
+    "name": "Instinct",
+    "players": [
+      {
+        "name": "to1nou",
+        "steamId": "76561198014204855"
+      }
+    ]
+  },
+  {
+    "name": "Meanwhile",
+    "players": [
+      {
+        "name": "stark",
+        "steamId": "76561198164402219"
+      }
+    ]
+  },
+  {
+    "name": "Orgless",
+    "players": [
+      {
+        "name": "yay",
+        "steamId": "76561198017762493"
+      },
+      {
+        "name": "Subroza",
+        "steamId": "76561198072264947"
+      },
+      {
+        "name": "FNS",
+        "steamId": "76561197977830434"
+      }
+    ]
+  },
+  {
+    "name": "ESPADA",
+    "players": [
+      {
+        "name": "S0TF1k",
+        "steamId": "76561198135123440"
+      },
+      {
+        "name": "Dima",
+        "steamId": "76561198011984495"
+      }
+    ]
+  },
+  {
+    "name": "Youngsters",
+    "players": [
+      {
+        "name": "pashaBiceps",
+        "steamId": "76561197973845818"
+      }
+    ]
+  },
+  {
+    "name": "EsportsAdviser",
+    "players": [
+      {
+        "name": "Jayzwalkingz",
+        "steamId": "76561198135997318"
+      }
+    ]
+  },
+  {
+    "name": "Maknitude",
+    "players": [
+      {
+        "name": "sycrone",
+        "steamId": "76561198009427663"
+      }
+    ]
+  },
+  {
+    "name": "Melbet",
+    "players": [
+      {
+        "name": "tonyblack",
+        "steamId": "76561197976004330"
+      },
+      {
+        "name": "DavCost",
+        "steamId": "76561197980539257"
+      }
+    ]
+  },
+  {
+    "name": "Secret",
+    "players": [
+      {
+        "name": "anarkez",
+        "steamId": "76561198033392496"
+      }
+    ]
+  },
+  {
+    "name": "Streamer",
+    "players": [
+      {
+        "name": "shroud",
+        "steamId": "76561197964781654"
+      },
+      {
+        "name": "Skadoodle",
+        "steamId": "76561197981341453"
+      },
+      {
+        "name": "1mpala",
+        "steamId": "76561198072613173"
+      },
+      {
+        "name": "Hiko",
+        "steamId": "76561197960268519"
+      },
+      {
+        "name": "mixwell",
+        "steamId": "76561197987489852"
+      },
+      {
+        "name": "Pimp",
+        "steamId": "76561198018008308"
+      },
+      {
+        "name": "NisaY",
+        "steamId": "76561198118673556"
+      },
+      {
+        "name": "seangares",
+        "steamId": "76561197960429732"
+      },
+      {
+        "name": "Lobanjica",
+        "steamId": "76561198133274020"
+      },
+      {
+        "name": "jasonR",
+        "steamId": "76561197985134321"
+      },
+      {
+        "name": "swag/brax",
+        "steamId": "76561197960284752"
+      }
+    ]
+  },
+  {
+    "name": "FA",
+    "players": [
+      {
+        "name": "n0thing",
+        "steamId": "76561197961021014"
+      },
+      {
+        "name": "jmqa",
+        "steamId": "76561198075489161"
+      },
+      {
+        "name": "Kvik",
+        "steamId": "76561198001248233"
+      },
+      {
+        "name": "nukkye",
+        "steamId": "76561198023805574"
+      },
+      {
+        "name": "Happy",
+        "steamId": "76561197978241352"
+      },
+      {
+        "name": "benny",
+        "steamId": "76561198012113419"
+      },
+      {
+        "name": "markeloff",
+        "steamId": "76561197965932989"
+      },
+      {
+        "name": "hazed",
+        "steamId": "76561197990571509"
+      },
+      {
+        "name": "anger",
+        "steamId": "76561197960392713"
+      },
+      {
+        "name": "D0cC",
+        "steamId": "76561198281640972"
+      },
+      {
+        "name": "znajder",
+        "steamId": "76561198058081778"
+      },
+      {
+        "name": "vice",
+        "steamId": "76561198096245196"
+      },
+      {
+        "name": "crush",
+        "steamId": "76561197997247152"
+      },
+      {
+        "name": "COLDYY1",
+        "steamId": "76561197994630171"
+      },
+      {
+        "name": "dephh",
+        "steamId": "76561197987260907"
+      },
+      {
+        "name": "ANDROID",
+        "steamId": "76561197962202161"
+      },
+      {
+        "name": "oskar",
+        "steamId": "76561198131690816"
+      },
+      {
+        "name": "imor",
+        "steamId": "76561198067348168"
+      },
+      {
+        "name": "morelz",
+        "steamId": "76561198082474142"
+      },
+      {
+        "name": "Edward",
+        "steamId": "76561197983695262"
+      },
+      {
+        "name": "jdm64",
+        "steamId": "76561197967489380"
+      },
+      {
+        "name": "DickStacy",
+        "steamId": "76561198152285360"
+      },
+      {
+        "name": "LUCAS1",
+        "steamId": "76561197965046352"
+      },
+      {
+        "name": "ShahZaM",
+        "steamId": "76561198046268744"
+      },
+      {
+        "name": "MODDII",
+        "steamId": "76561197961124456"
+      },
+      {
+        "name": "ANGE1",
+        "steamId": "76561198019196091"
+      },
+      {
+        "name": "DeadFox",
+        "steamId": "76561197989604320"
+      },
+      {
+        "name": "yam",
+        "steamId": "76561197960296387"
+      },
+      {
+        "name": "rallen",
+        "steamId": "76561197991432466"
+      },
+      {
+        "name": "t0rick",
+        "steamId": "76561198007552635"
+      },
+      {
+        "name": "Ramz1k",
+        "steamId": "76561198107761846"
+      },
+      {
+        "name": "SicK",
+        "steamId": "76561197983822687"
+      },
+      {
+        "name": "DESPE",
+        "steamId": "76561198000049155"
+      },
+      {
+        "name": "fnx",
+        "steamId": "76561198130444302"
+      },
+      {
+        "name": "keev",
+        "steamId": "76561198011536764"
+      },
+      {
+        "name": "nex",
+        "steamId": "76561198050644501"
+      },
+      {
+        "name": "Ex6TenZ",
+        "steamId": "76561197972003061"
+      },
+      {
+        "name": "ALEX",
+        "steamId": "76561198004871434"
+      },
+      {
+        "name": "glace",
+        "steamId": "76561197987399841"
+      },
+      {
+        "name": "v1c7oR",
+        "steamId": "76561198006282027"
+      },
+      {
+        "name": "Karus",
+        "steamId": "76561198012805541"
+      },
+      {
+        "name": "Baaten",
+        "steamId": "76561198123464966"
+      },
+      {
+        "name": "FugLy",
+        "steamId": "76561198069025810"
+      },
+      {
+        "name": "smooya",
+        "steamId": "76561198171689321"
+      },
+      {
+        "name": "AZK",
+        "steamId": "76561197964179892"
+      },
+      {
+        "name": "fitch",
+        "steamId": "76561197993474578"
+      },
+      {
+        "name": "phr",
+        "steamId": "76561197979570214"
+      }
+    ]
+  },
+  {
+    "name": "Retired",
+    "players": [
+      {
+        "name": "SmithZz",
+        "steamId": "76561197962060457"
+      },
+      {
+        "name": "pronax",
+        "steamId": "76561197969684910"
+      },
+      {
+        "name": "xeta",
+        "steamId": "76561198000445526"
+      },
+      {
+        "name": "Zeus",
+        "steamId": "76561198019328472"
+      },
+      {
+        "name": "gobb",
+        "steamId": "76561197961427893"
+      },
+      {
+        "name": "Maniac",
+        "steamId": "76561197960301489"
+      },
+      {
+        "name": "mistou",
+        "steamId": "76561197997336910"
+      }
+    ]
+  },
+  {
+    "name": "Coach",
+    "players": [
+      {
+        "name": "adreN",
+        "steamId": "76561197961631761"
+      },
+      {
+        "name": "B1ad3",
+        "steamId": "76561198013523865"
+      },
+      {
+        "name": "LEGIJA",
+        "steamId": "76561197981508015"
+      }
+    ]
+  }
+]
